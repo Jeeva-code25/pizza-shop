@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/pizza-shop/static/css/main.49397e42.css",
+    "main.js": "/pizza-shop/static/js/main.e815c8a0.js",
+    "static/media/corousal-img1.jpg": "/pizza-shop/static/media/corousal-img1.cefb5b25f1c629398b9f.jpg",
+    "static/media/cheese-pizza.jpg": "/pizza-shop/static/media/cheese-pizza.9519a9ada8d0b569b108.jpg",
+    "static/media/pizza.jpg": "/pizza-shop/static/media/pizza.7f71a1e31cd2853015e2.jpg",
+    "static/media/corousal-img2.jpg": "/pizza-shop/static/media/corousal-img2.1aae081b7f9ff22269a7.jpg",
+    "static/media/corousal-img3.jpg": "/pizza-shop/static/media/corousal-img3.71a517587f57be846f1f.jpg",
+    "static/media/bootstrap-icons.woff?": "/pizza-shop/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/pizza-shop/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "index.html": "/pizza-shop/index.html",
+    "main.49397e42.css.map": "/pizza-shop/static/css/main.49397e42.css.map",
+    "main.e815c8a0.js.map": "/pizza-shop/static/js/main.e815c8a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49397e42.css",
+    "static/js/main.e815c8a0.js"
+  ]
+}
